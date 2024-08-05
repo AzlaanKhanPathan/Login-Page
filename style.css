@@ -10,7 +10,7 @@ section{
     display: flex;
     justify-content: center;
     align-items: center;
-    min-height: 200vh;
+    min-height: 1000px;
     width: 200vh;
     background: #000000;
     }
